@@ -1,0 +1,10 @@
+*.o
+*.a
+*~
+*.log
+vgcore.*
+.vscode/
+*.gcda
+*.gcno
+unit-tests
+my_paint
